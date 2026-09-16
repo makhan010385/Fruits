@@ -1,0 +1,16 @@
+Feature,Spearman_Rho,Absolute_Rho,N
+Initial_Bloom,0.9847,0.9847,36
+Final_Bloom,0.9774,0.9774,36
+Fruit_Weight,-0.9433,0.9433,36
+Yield,-0.9432,0.9432,36
+Proline,0.9432,0.9432,36
+Leaf_Potassium,-0.939,0.939,36
+Fruit_Length,-0.937,0.937,36
+Fruit_Volume,-0.9274,0.9274,36
+TCSA,-0.9042,0.9042,36
+Trunk_Girth,-0.9042,0.9042,36
+Fruit_Diameter,-0.6964,0.6964,36
+Yield_Efficiency,0.5951,0.5951,36
+Bloom_Intensity,-0.4614,0.4614,36
+Fruit_Count_per_Vine,-0.269,0.269,36
+Fruit_Shape_LD_Ratio,-0.0525,0.0525,36

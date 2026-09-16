@@ -1,0 +1,17 @@
+Feature,Data_Type,Non_Missing,Missing,Missing_Percentage,Unique,Mean,SD,Minimum,Maximum
+Fruit_Weight,float64,36,0,0.0,34,75.0861,4.8696,67.2,82.5
+Fruit_Length,float64,36,0,0.0,31,63.0944,4.3056,56.9,71.8
+Fruit_Diameter,float64,36,0,0.0,29,43.8056,3.8881,37.6,52.4
+Fruit_Shape_LD_Ratio,float64,36,0,0.0,19,1.4478,0.072,1.31,1.61
+Yield,float64,36,0,0.0,36,47.0386,3.3249,42.47,52.55
+Fruit_Count_per_Vine,float64,36,0,0.0,24,626.3067,11.0686,605.0,637.0
+TCSA,float64,36,0,0.0,23,90.0356,10.0164,76.47,110.12
+Trunk_Girth,float64,36,0,0.0,23,33.5861,1.8704,31.0,37.2
+Yield_Efficiency,float64,36,0,0.0,10,0.5231,0.0253,0.48,0.57
+Fruit_Volume,float64,36,0,0.0,15,81.75,4.0523,75.0,93.0
+Proline,float64,36,0,0.0,35,3.4714,1.5498,1.68,5.96
+Leaf_Potassium,float64,36,0,0.0,19,2.3619,0.064,2.25,2.46
+Ascorbic_Acid,float64,36,0,0.0,30,73.3,3.1295,68.4,78.2
+Initial_Bloom,float64,36,0,0.0,4,10.1667,1.0823,9.0,12.0
+Final_Bloom,float64,36,0,0.0,5,18.5,1.4041,17.0,21.0
+Bloom_Intensity,float64,36,0,0.0,9,0.6961,0.112,0.46,0.8

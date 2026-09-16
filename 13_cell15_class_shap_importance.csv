@@ -1,0 +1,7 @@
+Stress_Class,Feature,Mean_Absolute_SHAP
+Low_Stress,Proline,1.5780685593937525
+Low_Stress,Leaf_Potassium,1.076990455071619
+Moderate_Stress,Proline,1.3251812097218905
+Moderate_Stress,Leaf_Potassium,1.4159987271567902
+High_Stress,Proline,0.2528873496718611
+High_Stress,Leaf_Potassium,0.33900827208517237

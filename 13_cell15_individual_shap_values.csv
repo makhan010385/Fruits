@@ -1,0 +1,7 @@
+Sample_Index,Actual_Class,Predicted_Class,Feature,Feature_Value,SHAP_Value,Absolute_SHAP
+6,Low_Stress,Low_Stress,Proline,1.8,1.6987427487618398,1.6987427487618398
+6,Low_Stress,Low_Stress,Leaf_Potassium,2.42,1.5303037091536433,1.5303037091536433
+18,Moderate_Stress,Moderate_Stress,Proline,3.45,0.004148491124823311,0.004148491124823311
+18,Moderate_Stress,Moderate_Stress,Leaf_Potassium,2.36,0.012270911313626624,0.012270911313626624
+30,High_Stress,High_Stress,Proline,5.55,2.515787458000238,2.515787458000238
+30,High_Stress,High_Stress,Leaf_Potassium,2.26,2.043837674864442,2.043837674864442
