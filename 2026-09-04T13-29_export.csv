@@ -1,0 +1,11 @@
+﻿,Model,Accuracy,Accuracy Mean,Accuracy SD,Balanced Accuracy,Balanced Accuracy Mean,Balanced Accuracy SD,F1 Macro,F1 Macro Mean,F1 Macro SD,MCC
+0,Logistic Regression,1,1,0,1,1,0,1,1,0,1
+1,LDA,1,1,0,1,1,0,1,1,0,1
+2,QDA,1,1,0,1,1,0,1,1,0,1
+3,KNN,1,1,0,1,1,0,1,1,0,1
+4,Linear SVM,1,1,0,1,1,0,1,1,0,1
+5,SVM (RBF),1,1,0,1,1,0,1,1,0,1
+6,Naive Bayes,1,1,0,1,1,0,1,1,0,1
+7,Random Forest,1,1,0,1,1,0,1,1,0,1
+8,Extra Trees,1,1,0,1,1,0,1,1,0,1
+9,Gradient Boosting,1,1,0,1,1,0,1,1,0,1
